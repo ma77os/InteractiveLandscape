@@ -6,7 +6,7 @@ An exploration of an animated interactive landscape built with three.js. By Andr
 
 [Article on Codrops](https://tympanus.net/codrops/?p=36470)
 
-[Demo](http://tympanus.net/Development/AnimatedLandscape/)
+[Demo](https://tympanus.net/Development/InteractiveLandscape/)
 
 ## Credits
 
